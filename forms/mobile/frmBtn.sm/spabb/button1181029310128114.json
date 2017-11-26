@@ -1,0 +1,56 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_skin_": "s41dc4b0f6444847bf954a68f2374a84",
+    "_text_": "Button with Border:1 ",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3b1060ff89e41459d4c339a998616ee",
+    "hexpand": true,
+    "id": "button1181029310128114",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet1288931495496",
+    "name": "kony.ui.Button",
+    "parent": "frmBtn",
+    "pf": "frmBtn",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPABBButtonProperty",
+        "_margin_": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "_padding_": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "margin": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "marginInPixel": false,
+        "padding": [
+            1,
+            4,
+            1,
+            4
+        ],
+        "paddingInPixel": false,
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

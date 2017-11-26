@@ -1,0 +1,75 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5d424ee0b29479ea87f341f6dabd863",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 16,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5d424ee0b29479ea87f341f6dabd863",
+    "hexpand": true,
+    "id": "btnExpandNCollapse",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet12889314952176",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox192735980042698",
+    "pf": "frmScrollBoxMenu",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.WinPhone8ButtonProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            1,
+            10,
+            1,
+            10
+        ],
+        "contentAlignment": 5,
+        "displayText": true,
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "padding": [
+            1,
+            10,
+            1,
+            10
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

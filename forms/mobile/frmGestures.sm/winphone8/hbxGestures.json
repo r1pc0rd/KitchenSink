@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_orientation_": 1,
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s17da14750ae47ffae777714a5f65c50",
+    "allboxes": [],
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "lblGesturesTitle"
+    ],
+    "containerweight": 100,
+    "focusskin": "s17da14750ae47ffae777714a5f65c50",
+    "id": "hbxGestures",
+    "info": null,
+    "isvisible": false,
+    "kuid": "p2kwiet12889314951230",
+    "layoutalignment": 3,
+    "name": "kony.ui.Box",
+    "parent": "frmGestures",
+    "pf": "frmGestures",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAHBoxProperty"
+    },
+    "templateType": "forms",
+    "wType": "HBox",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.WinPhone8HBoxProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_position_": 3,
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "padding": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": true,
+        "position": 3,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

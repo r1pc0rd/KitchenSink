@@ -1,0 +1,49 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        3,
+        2
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_skin_": "s9a9ba9d96cd40d7909926557a2cb8e4",
+    "_text_": "Button with Border:5",
+    "canUpdateUI": true,
+    "containerweight": 51,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.button.DesktopWebButtonProperty",
+        "displayText": true,
+        "render": true
+    },
+    "displaytext": true,
+    "focusskin": "sed06d1c4499486a89c027d6e9610646",
+    "hexpand": true,
+    "id": "button1181029310128142",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.button.KioskButtonProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet12889314955115",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox68508043410760",
+    "pf": "frmButton",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5
+}

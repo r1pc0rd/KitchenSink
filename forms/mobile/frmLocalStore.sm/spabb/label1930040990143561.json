@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "scb504f086954855812d164e1bd5f678",
+    "_text_": "Please enter the key to delete the  item",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "label1930040990143561",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12889314951768",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "vbox1930040990143559",
+    "pf": "frmLocalStore",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPABBLabelProperty",
+        "render": true
+    },
+    "tooltip": "",
+    "vexpand": false,
+    "wType": "Label",
+    "widgetalignment": 5
+}

@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9133e9c3a9e481ba8c815124ec08200",
+    "_text_": "Forward",
+    "canUpdateUI": true,
+    "containerweight": 33,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sc30457468074b07973d5aacb19b92bb",
+    "hexpand": true,
+    "id": "btnInlineForward",
+    "ide_onClick": "p2kwiet1288931495373_btnInlineForward_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "p2kwiet1288931495369",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbxInLineBrowser",
+    "pf": "frmBrowser",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.WinPhone8ButtonProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "contentAlignment": 5,
+        "displayText": true,
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "padding": [
+            3,
+            12,
+            3,
+            12
+        ],
+        "paddingInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

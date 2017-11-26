@@ -1,0 +1,47 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s161eea190934ece9dfc8fa9c3a13210",
+    "_text_": "Welcome to Kony",
+    "canUpdateUI": true,
+    "containerweight": 70,
+    "contentalignment": 5,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.link.DesktopWebLinkProperty",
+        "render": true
+    },
+    "focusskin": "s989e259f567461b9c740f946a99199f",
+    "hexpand": true,
+    "id": "link1181029310129249",
+    "ide_onClick": "p2kwiet12889314955463_link1181029310129249_onClick_seq0",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.link.KioskLinkProperty",
+        "render": true
+    },
+    "kuid": "p2kwiet12889314955453",
+    "margininpixel": false,
+    "name": "kony.ui.Link",
+    "paddinginpixel": false,
+    "parent": "hbox68508043453803",
+    "pf": "frmLink",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.link.SPALinkProperty"
+    },
+    "vexpand": false,
+    "wType": "Link",
+    "widgetalignment": 4
+}

@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_placeholder_": "Enter text",
+    "_skin_": "s70c7f26ac9b4296a85723b3f14b48b5",
+    "_text_": "",
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheightmode": 1,
+    "containerheightreference": 1,
+    "containerweight": 70,
+    "contentalignment": 4,
+    "desktopweb": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.DesktopWebTextBox2Property",
+        "containerHeightMode": 1,
+        "render": true
+    },
+    "focusskin": "s2bd9becc641403fb557c588854e986f",
+    "hexpand": true,
+    "id": "textfield211798972521729",
+    "info": null,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kiosk": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.KioskTextBox2Property",
+        "render": true
+    },
+    "kuid": "p2kwiet12889314955831",
+    "margininpixel": false,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "hbox68508043454993",
+    "pf": "frmTextBox",
+    "securetextentry": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.textbox2.SPATextBox2Property",
+        "autoCorrect": false,
+        "containerHeightMode": 1
+    },
+    "textinputmode": "A",
+    "vexpand": false,
+    "viewtype": "default",
+    "wType": "TextField",
+    "widgetalignment": 5
+}
