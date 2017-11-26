@@ -1,0 +1,15 @@
+{
+    "background_color": "0000ff00",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "font_color": "000000ff",
+    "font_size": 100,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "isDefaultSkin": true,
+    "kuid": "se50e01e501a4b88a2c0c3f797adfda2",
+    "wType": "Slider"
+}

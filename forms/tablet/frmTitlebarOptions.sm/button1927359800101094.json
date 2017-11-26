@@ -1,0 +1,71 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        6,
+        2,
+        6,
+        2
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s14a8b145d524289a5a644b59ee96bf8",
+    "_text_": "Titlebar with left & right buttons",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
+        "displayText": true,
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "seb4c4d5145a411a83e0757046d08068",
+    "hexpand": true,
+    "id": "button1927359800101094",
+    "ide_onClick": "p2kwiet12889314954882_button1927359800101094_onClick_seq0",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.IPadButtonProperty",
+        "displayText": true,
+        "psp": {
+            "glowEffect": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12889314954881",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "frmTitlebarOptions",
+    "pf": "frmTitlebarOptions",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidTabletButtonProperty",
+        "render": false
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPadButtonProperty",
+        "render": false
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAWindowsTabletButtonProperty",
+        "render": false
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.Windows8ButtonProperty",
+        "displayText": true,
+        "render": false
+    }
+}
