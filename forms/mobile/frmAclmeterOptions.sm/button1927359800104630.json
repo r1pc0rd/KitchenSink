@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_enabled_": false,
     "_skin_": "s14a8b145d524289a5a644b59ee96bf8",
-    "_text_": "Current accelerometer data",
+    "_text_": "Accelerometer data",
     "android": {
         "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
         "_margin_": [
